@@ -110,7 +110,7 @@ This is an academically driven open-source project, developed by a group of form
 
 ## 项目声明
 
-本项目是基于LangManus学术驱动的开源项目，修改了大模型引用Deepseek，去掉jina。旨在探索和交流 Multi-Agent 和 DeepResearch 相关领域的技术。
+本项目是基于LangManus学术驱动的开源项目，修改了大模型引用Deepseek，去掉jina,更优化使用Playwright框架。旨在探索和交流 Multi-Agent 和 DeepResearch 相关领域的技术。
 
 - **项目目的**：本项目的主要目的是大模型应用研究，给大模型装上手脚。
 - **产权声明**：所属知识产权归成都时光赛博科技有限公司所有。
